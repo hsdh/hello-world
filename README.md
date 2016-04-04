@@ -1,2 +1,3 @@
 # hello-world
-new repository
+Hello!
+Lets start some coding.
